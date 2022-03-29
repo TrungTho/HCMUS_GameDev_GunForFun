@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GunSprites
+  m_EditorClassIdentifier: 
+  m_GroupName: GunSprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 21167dce8ea7f1244b5b9a53a7733053
+  m_SerializeEntries:
+  - m_GUID: 04d982f8248c78f418b82a70ce11ea68
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/L42A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1274fbfa5ee2bd94d800f1bd53c8b1c8
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/Saiga-12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1d12128e47a340843b5ceaf51f802df4
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/SilentRifle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2a24540f4df4477499feea4cd6cd16d2
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/KSG.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34a047aa166383b4894c77da37c26597
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Acient.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3e0eaf9aebd24c441a82431cd5d3ec09
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/BrowningAuto5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 40cae50ecbe6cb649a1b3a353084fd38
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/lele.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 49bf7fd57e9588e4b98b2f47c2c8d3a2
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/TaticalSMGs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 49e975e8bff62774eaade483713ddd78
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Nagan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4bf88150aa4b512459875ac92e2b2994
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/UTS15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4c23ee37856dfc547b8a4634f5ae1f4e
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/MP40.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4e3d1b1f63ca99b41a41587544e94f48
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/M4A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4ea17acfdfecc7647b5cfaba65ce64f6
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/TT.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5519b3e0a505e334f8cecdf5a57f5756
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/meomeo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5872523b0c8682849aee5a8c3e6e0afe
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/MAG7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59ca76654d4ba3c45a8ac9fd7ce99e73
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Barreta21A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 65d649508c3f02e479e2591bc0dc9812
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/RGA-86.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6c2e14e18902cfd4791922da458f945e
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/AK47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7969aea7b66f9c74eb61282edd8812ad
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/GoldenColt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7da94429695b23b40a4cdf00df0217fd
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/RapidSniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8382368c1177b634ba44b08418ddda6c
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/GangsterShotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b592de8ae6b634488dae765f453345e
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/HuntingSniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8c0fd8d06aa0f7244beee9b53bc7f250
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/Winchester37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 93661de249c57824eb179206b58d6a8d
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/TOZ-106.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 963dffe7be1f34442b5b3eae8b511ca8
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/heavycolt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9c566d3b58b6da341b38f919dd281049
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/AS50.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d51dc0f440dd9b4a9c07bd853783e0d
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/MG42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a1b1bed5055ffd948a1b1728094faae5
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Colt45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a20e00ef13690024d967b056fe06ea9b
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/STG44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a784044eb2d93254082d0d1198e8e0cc
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/MiniColt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad4653f7288c4954e9c1c928e236ecfd
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/PPSH.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad930f869b805b44ea3fb7daae50d2dc
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Glock26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b1e5a36e9dbd5514987e83955a53da97
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/TaticalSniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bc9fa9624c000254a831b8e88796c472
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/ClassicalShotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cd8630e012b6727489cc6c55c2efac3b
+    m_Address: Guns/handguns/ClassicalHandgun.pngns/ClassicalHandgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cec2ed124d1de8647a8042741cb6e846
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/colt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d0e1882f5be58e64da121fda897a1038
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/Tompson.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d534519c57067534cafd780ffe161adc
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/gun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dd014ccb78379cb4db834c9673546c3d
+    m_Address: Assets/Sprites/Weapons/Guns/shotguns/AntiCraft.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: de3a930a07f458346a968d7cdb853ca0
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/Uzi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: df0672be4560e814686d7a1b4c8e0f6f
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/AEK-999.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e1015877d16f4074381789dbd095a949
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/AntiqueSMGs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eb1b89041bb02d14c9d3001228f4c1a9
+    m_Address: Assets/Sprites/Weapons/Guns/rifles/FancySMGs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ee61602b4daa40949bd8a888f0ece1ac
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/G43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f9e5b6810e9a36c42816a7264aa1db7c
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/SpaceSniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fc835cbd459d5b548bff9e85a298f25d
+    m_Address: Assets/Sprites/Weapons/Guns/snipers/Blaser-R93.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fed2a9eeacc56e84cb27091610449c88
+    m_Address: Assets/Sprites/Weapons/Guns/handguns/Luger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e14cacdf7d7e0324a8e07093026483f2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: faa4911e375e7644eb6abe5477e38de7, type: 2}
+    - {fileID: 11400000, guid: 6b46c9ef13cb8454292871ee4bf37049, type: 2}

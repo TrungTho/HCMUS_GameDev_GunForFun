@@ -4,5 +4,43 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 911e449b4af562d40836e73d88e168f2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene01.unity
+    guid: d31cc4622c6d7544caf52ef061f3b0c3
+  - enabled: 1
+    path: Assets/Scenes/Scene02.unity
+    guid: 2106cce6bb7050a45baef8a5891e66e2
+  - enabled: 1
+    path: Assets/Scenes/Scene03.unity
+    guid: 40ff00f133aa33247b689685870311f7
+  - enabled: 1
+    path: Assets/Scenes/Scene04.unity
+    guid: 8359617ba7495124593f946108770b4a
+  - enabled: 1
+    path: Assets/Scenes/Scene05.unity
+    guid: 3c575594c1edf9b4b85b14e58b7d1148
+  - enabled: 1
+    path: Assets/Scenes/CustomScene.unity
+    guid: 6857ef3f29cb7e94f94cfed0710f3464
+  - enabled: 1
+    path: Assets/Scenes/CustomScene02.unity
+    guid: d6c6ae977f5391e4393cb67f2119423f
+  - enabled: 1
+    path: Assets/Scenes/CustomScene03.unity
+    guid: c4191bfd64a860a45993637480a71847
+  - enabled: 1
+    path: Assets/Scenes/CustomScene04.unity
+    guid: 3d3987c0d8af92c4ca0895d5cc59bb0f
+  - enabled: 1
+    path: Assets/Scenes/CustomScene05.unity
+    guid: 7567d80566a5c654cab62c6c79e6284e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 93a15d23dd09afd4a9dfad7aca381af2,
+      type: 2}
